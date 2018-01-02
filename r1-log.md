@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Gledsley Müller]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 1st, Monday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Started studying Object Composition in JavaScript (Aggregation vs Concatenation). Also learned a bit about Redux, reducers and redux saga. Also started a simple React game, borrowing the idea from an old Flash game example I saw in a book some 9 years ago. I'll probably use this game when I start teaching React to my students. So far it looks horrible :-(
