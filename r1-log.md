@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Gledsley Müller]
+# #100DaysOfCode Log - Round 1 - Gledsley Müller
 
-The log of my #100DaysOfCode challenge. Started on [January 1st, Monday, 2018].
+The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
