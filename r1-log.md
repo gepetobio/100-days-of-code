@@ -10,3 +10,6 @@ Started studying Object Composition in JavaScript (Aggregation vs Concatenation)
 
 ### R1D2
 A bit of Functional Programming (Pure Functions and Higher Order Functions) and a lot of trouble with my React game but all fun! Quickly prototyping and refactoring the ugly bits of yesterday.
+
+### R1D3
+Today I studied Object Composition again, Concatenation. Also studied about environment configuration for app development (.env). And practiced a bit of Functional Programming and ES6 on https://babeljs.io/repl
