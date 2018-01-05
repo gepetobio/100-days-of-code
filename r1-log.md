@@ -13,3 +13,6 @@ A bit of Functional Programming (Pure Functions and Higher Order Functions) and 
 
 ### R1D3
 Today I studied Object Composition again, Concatenation. Also studied about environment configuration for app development (.env). And practiced a bit of Functional Programming and ES6 on https://babeljs.io/repl
+
+### R1D4
+Today I studied Functional Programming, Declarative vs Imperative programming, Object Composition (Delegation), React (unit tests, redux and authentication) and worked on a couple of JavaScript algorithms on FreeCodeCamp. Didn't touch my React game though :-(
