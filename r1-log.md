@@ -16,3 +16,7 @@ Today I studied Object Composition again, Concatenation. Also studied about envi
 
 ### R1D4
 Today I studied Functional Programming, Declarative vs Imperative programming, Object Composition (Delegation), React (unit tests, redux and authentication) and worked on a couple of JavaScript algorithms on FreeCodeCamp. Didn't touch my React game though :-(
+
+### R1D5
+Today I studied TDD, React/Redux configuration, Functional Programming, worked on a FCC algorithm (struggled with it tbh) and managed to meet @Isaac_Sogunro and work on a project of his! Most productive and fun day so far!
+
