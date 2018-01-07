@@ -20,3 +20,6 @@ Today I studied Functional Programming, Declarative vs Imperative programming, O
 ### R1D5
 Today I studied TDD, React/Redux configuration, Functional Programming, worked on a FCC algorithm (struggled with it tbh) and managed to meet @Isaac_Sogunro and work on a project of his! Most productive and fun day so far!
 
+### R1D6
+Today I studied a bit of Functional Programming and worked on refactoring a piece of code that I wasn't happy with. I failed: found a bug on the original code, couldn't fix it and I'm still not happy with it. Least productive day so far :-(
+
