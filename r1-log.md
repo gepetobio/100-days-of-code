@@ -23,3 +23,6 @@ Today I studied TDD, React/Redux configuration, Functional Programming, worked o
 ### R1D6
 Today I studied a bit of Functional Programming and worked on refactoring a piece of code that I wasn't happy with. I failed: found a bug on the original code, couldn't fix it and I'm still not happy with it. Least productive day so far :-(
 
+### R1D7
+Today I managed to refactor my piece of code from yesterday and it works without bugs! Tests all green, hurray! Also started to build my FCC portfolio page. I've been sharing a google hangout link for the last 4 or 5 days and today I met some cool guys!
+
