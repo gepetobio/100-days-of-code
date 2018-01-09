@@ -26,3 +26,5 @@ Today I studied a bit of Functional Programming and worked on refactoring a piec
 ### R1D7
 Today I managed to refactor my piece of code from yesterday and it works without bugs! Tests all green, hurray! Also started to build my FCC portfolio page. I've been sharing a google hangout link for the last 4 or 5 days and today I met some cool guys!
 
+### R1D8
+Today I studied Functional Programming (Maps, Functors and a bit of Monads) – and that was intense on its own! I also studied a bit more about Redux and authentication. I finished building my FCC portfolio page (a bit of a partial copy of my real portfolio website), helped @artoo_O with some HTML and CSS demo (building yet another FCC Portfolio page) on another hangout session.
