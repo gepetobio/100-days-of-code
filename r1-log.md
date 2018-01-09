@@ -28,3 +28,6 @@ Today I managed to refactor my piece of code from yesterday and it works without
 
 ### R1D8
 Today I studied Functional Programming (Maps, Functors and a bit of Monads) – and that was intense on its own! I also studied a bit more about Redux and authentication. I finished building my FCC portfolio page (a bit of a partial copy of my real portfolio website), helped @artoo_O with some HTML and CSS demo (building yet another FCC Portfolio page) on another hangout session.
+
+### R1D9
+Today I studied React, built some components and learned some new tricks. Started reading the book `Functional-Light Javascript` and kept working on a second Portfolio page on a hangout session. 
