@@ -31,3 +31,6 @@ Today I studied Functional Programming (Maps, Functors and a bit of Monads) – 
 
 ### R1D9
 Today I studied React, built some components and learned some new tricks. Started reading the book `Functional-Light Javascript` and kept working on a second Portfolio page on a hangout session. 
+
+### R1D10
+Today I started my Random Quote Machine app... scrapped the jQuery version and now I'm transforming it in a React app. Worked more on markup and styles. No functionality available for now. Also studied Functional Programming (Functors and Monads). Exchanged some ideas with @Isaac_Sogunro on an app he's working on and kept working on a Portfolio page to help @artoo_O with HTML and CSS. No public hangout session today though :-(
