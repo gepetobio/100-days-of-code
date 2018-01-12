@@ -34,3 +34,6 @@ Today I studied React, built some components and learned some new tricks. Starte
 
 ### R1D10
 Today I started my Random Quote Machine app... scrapped the jQuery version and now I'm transforming it in a React app. Worked more on markup and styles. No functionality available for now. Also studied Functional Programming (Functors and Monads). Exchanged some ideas with @Isaac_Sogunro on an app he's working on and kept working on a Portfolio page to help @artoo_O with HTML and CSS. No public hangout session today though :-(
+
+### R1D11
+Today I kept working on my Random Quote Machine app. It's working with React and I managed to apply a bit of the Functional Programming knowleged I got so far. I still need to polish it as it's too rough but the main functionalities are working!!! I also studied Functional Programming (Functors and Monads Laws) and my brain fried a bit. But I'll get there! Couldn't do my hangout session again but I'll try to do it tomorrow!
