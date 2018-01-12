@@ -37,3 +37,6 @@ Today I started my Random Quote Machine app... scrapped the jQuery version and n
 
 ### R1D11
 Today I kept working on my Random Quote Machine app. It's working with React and I managed to apply a bit of the Functional Programming knowleged I got so far. I still need to polish it as it's too rough but the main functionalities are working!!! I also studied Functional Programming (Functors and Monads Laws) and my brain fried a bit. But I'll get there! Couldn't do my hangout session again but I'll try to do it tomorrow!
+
+### R1D12
+Today I refactore my Random Quote Machine app (actually, I created a second version of it but kept the first for future reference). After some constructive feedback, I saw that I could do better with Pure Functions so that's why I refactored. There's still room for improvement, though. I also studied the laws of Monads and fried my brain. Functors and Monads have been the toughest topics in Functional Programming so far (not that I already know all about the rest of Functional Programming). No hangouts today again... I'll try on again next week.
