@@ -40,3 +40,6 @@ Today I kept working on my Random Quote Machine app. It's working with React and
 
 ### R1D12
 Today I refactored my Random Quote Machine app (actually, I created a second version of it but kept the first for future reference). After some constructive feedback, I saw that I could do better with Pure Functions so that's why I refactored. There's still room for improvement, though. I also studied the laws of Monads and fried my brain. Functors and Monads have been the toughest topics in Functional Programming so far (not that I already know all about the rest of Functional Programming). No hangouts today again... I'll try on again next week.
+
+### R1D13
+Today I just studied Monads (and invariably studied Functors). I think I'm getting the the application of it, just need to understand the laws of Monads now. But I'm happier now that I'm seeing the light in the end of the tunnel :P
