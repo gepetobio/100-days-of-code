@@ -43,3 +43,6 @@ Today I refactored my Random Quote Machine app (actually, I created a second ver
 
 ### R1D13
 Today I just studied Monads (and invariably studied Functors). I think I'm getting the the application of it, just need to understand the laws of Monads now. But I'm happier now that I'm seeing the light in the end of the tunnel :P
+
+### R1D14
+Today I got busy with other things and had to drive a lot. As I knew I wouldn't be able to code much, I spent almost 4h of driving listening to Javascript - Software Engineering Daily Podcast. @sarah_edo @kylemathews and @getify episodes. After that, I got home and decided to build my Quote Machine app in Vanilla JavaScript and in Vue. The plan is to use it as a case study when I have to teach JavaScript to my students.
