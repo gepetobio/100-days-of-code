@@ -46,3 +46,6 @@ Today I just studied Monads (and invariably studied Functors). I think I'm getti
 
 ### R1D14
 Today I got busy with other things and had to drive a lot. As I knew I wouldn't be able to code much, I spent almost 4h of driving listening to Javascript - Software Engineering Daily Podcast. @sarah_edo @kylemathews and @getify episodes. After that, I got home and decided to build my Quote Machine app in Vanilla JavaScript and in Vue. The plan is to use it as a case study when I have to teach JavaScript to my students.
+
+### R1D15
+Today I kept working on my Vanilla JavaScript Quote Machine app. It works, I just need to sort out the sharing button now. I tried to apply some of the Functional Programming concepts I've been learning (e.g. trying to contain all the side effects and make functions I could do unit tests easily). I'm glad I did the first (and second) versions of this app in React and now I'm getting back to basics just to see how I could solve the same problem in different ways (and different tools).
