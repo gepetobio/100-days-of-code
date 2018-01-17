@@ -49,3 +49,6 @@ Today I got busy with other things and had to drive a lot. As I knew I wouldn't 
 
 ### R1D15
 Today I kept working on my Vanilla JavaScript Quote Machine app. It works, I just need to sort out the sharing button now. I tried to apply some of the Functional Programming concepts I've been learning (e.g. trying to contain all the side effects and make functions I could do unit tests easily). I'm glad I did the first (and second) versions of this app in React and now I'm getting back to basics just to see how I could solve the same problem in different ways (and different tools).
+
+### R1D16
+Today I refactored finished my Vanilla JavaScript Quote Machine app and closed the FCC challenge. I also refactored my React version and made the share link work properly. I've also started reading the documentation for a Vue version I'm starting.
