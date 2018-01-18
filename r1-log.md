@@ -52,3 +52,6 @@ Today I kept working on my Vanilla JavaScript Quote Machine app. It works, I jus
 
 ### R1D16
 Today I refactored finished my Vanilla JavaScript Quote Machine app and closed the FCC challenge. I also refactored my React version and made the share link work properly. I've also started reading the documentation for a Vue version I'm starting.
+
+### R1D17
+Today I revisited some basic concepts of Functional Programming: function composition, higher order functions, curry and partial application. I also revisited some ES6 features. An ddid a bit of code review with @artoo_O on his tic tac toe game.
