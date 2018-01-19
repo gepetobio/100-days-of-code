@@ -55,3 +55,6 @@ Today I refactored finished my Vanilla JavaScript Quote Machine app and closed t
 
 ### R1D17
 Today I revisited some basic concepts of Functional Programming: function composition, higher order functions, curry and partial application. I also revisited some ES6 features. An ddid a bit of code review with @artoo_O on his tic tac toe game.
+
+### R1D18
+Today I revisited the usage of `this` in JavaScript and the perks of using it with ES6 arrow functions. I also studied Functional Programming, the differences between compose and pipe and their applications. Had a long debugging session in a React project. Also had a look at the Vue documentation to undertsand how components and props work comparing with React.
