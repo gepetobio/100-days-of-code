@@ -58,3 +58,6 @@ Today I revisited some basic concepts of Functional Programming: function compos
 
 ### R1D18
 Today I revisited the usage of `this` in JavaScript and the perks of using it with ES6 arrow functions. I also studied Functional Programming, the differences between compose and pipe and their applications. Had a long debugging session in a React project. Also had a look at the Vue documentation to undertsand how components and props work comparing with React.
+
+### R1D19
+Today I studied Functional Programming (Abstraction & Composition). I also had a long React debug session and learned a bit more about reducers and transducers. I also started migrating my several versions of Random Quote Machine app to a github repository (which I should have done in the first place but ended up doing on codepen just because FCC asks for it). Also did some map and filter exercises.
