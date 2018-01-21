@@ -61,3 +61,6 @@ Today I revisited the usage of `this` in JavaScript and the perks of using it wi
 
 ### R1D19
 Today I studied Functional Programming (Abstraction & Composition). I also had a long React debug session and learned a bit more about reducers and transducers. I also started migrating my several versions of Random Quote Machine app to a github repository (which I should have done in the first place but ended up doing on codepen just because FCC asks for it). Also did some map and filter exercises.
+
+### R1D20
+Today I studied a bit of Curry and Partial application. As I had to travel, I listened to 3 episodes of Software Engineering Daily Poodcast about WebAssembly, Reactive Programming and React.
