@@ -64,3 +64,6 @@ Today I studied Functional Programming (Abstraction & Composition). I also had a
 
 ### R1D20
 Today I studied a bit of Curry and Partial application. As I had to travel, I listened to 3 episodes of Software Engineering Daily Poodcast about WebAssembly, Reactive Programming and React.
+
+### R1D21
+Today I kept studying Curry and Partial application. I also studied a bit of Streams, Promises and Monads. I also did a code review on @super_raay Number Facts app and suggested some changes.
