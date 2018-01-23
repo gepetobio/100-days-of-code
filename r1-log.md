@@ -67,3 +67,6 @@ Today I studied a bit of Curry and Partial application. As I had to travel, I li
 
 ### R1D21
 Today I kept studying Curry and Partial application. I also studied a bit of Streams, Promises and Monads. I also did a code review on @super_raay Number Facts app and suggested some changes.
+
+### R1D22
+Today I made some progress on my Vue version of the Random Quote Machine app. I still need to pass the props but the structure seems to be ok. I also studied Functiona Programming, Software Composition and had a pair programming session on a React/Redux app.
