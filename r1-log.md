@@ -70,3 +70,6 @@ Today I kept studying Curry and Partial application. I also studied a bit of Str
 
 ### R1D22
 Today I made some progress on my Vue version of the Random Quote Machine app. I still need to pass the props but the structure seems to be ok. I also studied Functiona Programming, Software Composition and had a pair programming session on a React/Redux app.
+
+### R1D23
+Today I worked a bit more on my [second Portfolio Page for FreeCodeCamp](https://codepen.io/gepetobio/full/YYYBgP/) and also had a chat with [Marilzon](https://www.linkedin.com/in/marilzon/) about his career path. I finally put some words on my [Functiona Programming with JavaScript Resources](https://github.com/gepetobio/functional-programming-with-javascript-resources) repo and pushed to master! That was quite cool! I also studied a bit about Drupal and PHP OOP but that was for my work... not sure if I should add this here. But hey, I was studying anyway!
