@@ -73,3 +73,6 @@ Today I made some progress on my Vue version of the Random Quote Machine app. I 
 
 ### R1D23
 Today I worked a bit more on my [second Portfolio Page for FreeCodeCamp](https://codepen.io/gepetobio/full/YYYBgP/) and also had a chat with [Marilzon](https://www.linkedin.com/in/marilzon/) about his career path. I finally put some words on my [Functiona Programming with JavaScript Resources](https://github.com/gepetobio/functional-programming-with-javascript-resources) repo and pushed to master! That was quite cool! I also studied a bit about Drupal and PHP OOP but that was for my work... not sure if I should add this here. But hey, I was studying anyway!
+
+### R1D24
+Today I worked with @Isaac_Sogunro on a VueJS app he is working on. We found the bug and he got the app working! Hurray! I also studied Functional Programming, Transducers. And had another pair programming session on a React App. I was so tired that I fell asleep and didn't have time to log my progress nor tweet about it.
