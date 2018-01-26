@@ -76,3 +76,6 @@ Today I worked a bit more on my [second Portfolio Page for FreeCodeCamp](https:/
 
 ### R1D24
 Today I worked with [@Isaac_Sogunro](https://twitter.com/Isaac_Sogunro) on a VueJS app he is working on. We found the bug and he got the app working! Hurray! I also studied Functional Programming, Transducers. And had another pair programming session on a React App. I was so tired that I fell asleep and didn't have time to log my progress nor tweet about it.
+
+### R1D25
+Today I worked with [@artoo_O](https://twitter.com/artoo_O) to get his Simon game working. We got there in the end! I also studied Functional Programming, Transducer Protocol and I had another pair programming session on a React App. I read a bit of You don't know JS.
