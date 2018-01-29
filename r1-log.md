@@ -79,3 +79,12 @@ Today I worked with [@Isaac_Sogunro](https://twitter.com/Isaac_Sogunro) on a Vue
 
 ### R1D25
 Today I worked with [@artoo_O](https://twitter.com/artoo_O) to get his Simon game working. We got there in the end! I also studied Functional Programming, Transducer Protocol and I had another pair programming session on a React App. I read a bit of You don't know JS.
+
+### R1D26 
+Today I studied a bit more of Functional Programming (Monads and Ternaries). I also did a Pair Programming session with a React app and this time I was driving! I'm way more inexperienced (threfore slower) than the other developers but I was quite happy that they encouraged me to keep working on it.
+
+### R1D27 
+Today I studied a bit of Functional Programming and read another chapter of [@YDKJS]((https://twitter.com/YDKJS). I didn't have my computer with me so I did what I could with my mobile only :P
+
+### R1D28
+Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and studied a lot about VueJS. I'm still trying to make my Random Quote Machine app work in the Vue version. I'll try to make it work fully in the following days.
