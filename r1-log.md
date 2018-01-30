@@ -88,3 +88,6 @@ Today I studied a bit of Functional Programming and read another chapter of [@YD
 
 ### R1D28
 Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and studied a lot about VueJS. I'm still trying to make my Random Quote Machine app work in the Vue version. I'll try to make it work fully in the following days.
+
+### R1D29
+Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and had a pair programming session with a React app. I also refactored all my Random Quote Machine github repo and moved all my codepen versions (Vanilla JS, React and VueJS) to it. There was also a partial jQuery version on it which I'll have to finish. It's all broken... I'll fix these things this week.
