@@ -91,3 +91,6 @@ Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and studied a lo
 
 ### R1D29
 Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and had a pair programming session with a React app. I also refactored all my Random Quote Machine github repo and moved all my codepen versions (Vanilla JS, React and VueJS) to it. There was also a partial jQuery version on it which I'll have to finish. It's all broken... I'll fix these things this week.
+
+### R1D30
+Today I finally managed to push my Random Quote Machine versions to my [old git repo](https://goo.gl/mhpHGs). It's there now... let's see if I get feedbacks :P I also read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and studied a bit of VueJS.
