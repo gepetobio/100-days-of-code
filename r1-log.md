@@ -94,3 +94,6 @@ Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and had a pair p
 
 ### R1D30
 Today I finally managed to push my Random Quote Machine versions to my [old git repo](https://goo.gl/mhpHGs). It's there now... let's see if I get feedbacks :P I also read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and studied a bit of VueJS.
+
+### R1D31
+Today I studied a bit more of Functional Programming basics and joined a pair programming session of a React App. I also read and discussed a bit about modules in ES6 with [@artoo_O](https://twitter.com/artoo_O). And tried to help him centralising a modal with CSS.
