@@ -97,3 +97,6 @@ Today I finally managed to push my Random Quote Machine versions to my [old git 
 
 ### R1D31
 Today I studied a bit more of Functional Programming basics and joined a pair programming session of a React App. I also read and discussed a bit about modules in ES6 with [@artoo_O](https://twitter.com/artoo_O). And tried to help him centralising a modal with CSS.
+
+### R1D32
+Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and practice some of the examples. I also studied a bit of VueJS to get my Random Quote Machine version working. I'm thinkinb about streaming some of my studies in a more organised way so I spent a long time reading and learning about [OBS](https://obsproject.com/). I need to get a decent microphone as I'm getting way too many background noise with my built-in one during my hangout sessions. Yeah, I got side tracked because of this... I could have spent some extra time studying and building things but teaching became an important thing for me during these 100 days of code.
