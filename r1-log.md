@@ -100,3 +100,6 @@ Today I studied a bit more of Functional Programming basics and joined a pair pr
 
 ### R1D32
 Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and practice some of the examples. I also studied a bit of VueJS to get my Random Quote Machine version working. I'm thinkinb about streaming some of my studies in a more organised way so I spent a long time reading and learning about [OBS](https://obsproject.com/). I need to get a decent microphone as I'm getting way too many background noise with my built-in one during my hangout sessions. Yeah, I got side tracked because of this... I could have spent some extra time studying and building things but teaching became an important thing for me during these 100 days of code.
+
+### R1D33
+Today I just watched some VueJS tutorials to get the differences with React. I also read a bit more of [@YDKJS]((https://twitter.com/YDKJS). I got sidetracked again with [OBS](https://obsproject.com/) tutorials and testing a new microphone. 
