@@ -103,3 +103,6 @@ Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and practice som
 
 ### R1D33
 Today I just watched some VueJS tutorials to get the differences with React. I also read a bit more of [@YDKJS]((https://twitter.com/YDKJS). I got sidetracked again with [OBS](https://obsproject.com/) tutorials and testing a new microphone. 
+
+### R1D33
+Today I worked on my Random Quote Machine VueJS implementation. I just need to sort out a bug and then I'm done with it!
