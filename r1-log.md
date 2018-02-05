@@ -106,3 +106,6 @@ Today I just watched some VueJS tutorials to get the differences with React. I a
 
 ### R1D33
 Today I worked on my Random Quote Machine VueJS implementation. I just need to sort out a bug and then I'm done with it!
+
+### R1D34
+Today I studied a bit of Functional Programming and tried to debug my VueJS app... still no luck :-(
