@@ -109,3 +109,6 @@ Today I worked on my Random Quote Machine VueJS implementation. I just need to s
 
 ### R1D34
 Today I studied a bit of Functional Programming and tried to debug my VueJS app... still no luck :-(
+
+## R1D35
+Today I studied and did a lot of Functional Programming exercises: Functors, Monads, Curring, Partial Application, Memoization and Transducers. I also read some bits of [@YDKJS]((https://twitter.com/YDKJS).
