@@ -84,25 +84,25 @@ Today I worked with [@artoo_O](https://twitter.com/artoo_O) to get his Simon gam
 Today I studied a bit more of Functional Programming (Monads and Ternaries). I also did a Pair Programming session with a React app and this time I was driving! I'm way more inexperienced (threfore slower) than the other developers but I was quite happy that they encouraged me to keep working on it.
 
 ### R1D27 
-Today I studied a bit of Functional Programming and read another chapter of [@YDKJS]((https://twitter.com/YDKJS). I didn't have my computer with me so I did what I could with my mobile only :P
+Today I studied a bit of Functional Programming and read another chapter of [@YDKJS](https://twitter.com/YDKJS). I didn't have my computer with me so I did what I could with my mobile only :P
 
 ### R1D28
-Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and studied a lot about VueJS. I'm still trying to make my Random Quote Machine app work in the Vue version. I'll try to make it work fully in the following days.
+Today I read a bit more of [@YDKJS](https://twitter.com/YDKJS) and studied a lot about VueJS. I'm still trying to make my Random Quote Machine app work in the Vue version. I'll try to make it work fully in the following days.
 
 ### R1D29
 Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and had a pair programming session with a React app. I also refactored all my Random Quote Machine github repo and moved all my codepen versions (Vanilla JS, React and VueJS) to it. There was also a partial jQuery version on it which I'll have to finish. It's all broken... I'll fix these things this week.
 
 ### R1D30
-Today I finally managed to push my Random Quote Machine versions to my [old git repo](https://goo.gl/mhpHGs). It's there now... let's see if I get feedbacks :P I also read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and studied a bit of VueJS.
+Today I finally managed to push my Random Quote Machine versions to my [old git repo](https://goo.gl/mhpHGs). It's there now... let's see if I get feedbacks :P I also read a bit more of [@YDKJS](https://twitter.com/YDKJS) and studied a bit of VueJS.
 
 ### R1D31
 Today I studied a bit more of Functional Programming basics and joined a pair programming session of a React App. I also read and discussed a bit about modules in ES6 with [@artoo_O](https://twitter.com/artoo_O). And tried to help him centralising a modal with CSS.
 
 ### R1D32
-Today I read a bit more of [@YDKJS]((https://twitter.com/YDKJS) and practice some of the examples. I also studied a bit of VueJS to get my Random Quote Machine version working. I'm thinkinb about streaming some of my studies in a more organised way so I spent a long time reading and learning about [OBS](https://obsproject.com/). I need to get a decent microphone as I'm getting way too many background noise with my built-in one during my hangout sessions. Yeah, I got side tracked because of this... I could have spent some extra time studying and building things but teaching became an important thing for me during these 100 days of code.
+Today I read a bit more of [@YDKJS](https://twitter.com/YDKJS) and practice some of the examples. I also studied a bit of VueJS to get my Random Quote Machine version working. I'm thinkinb about streaming some of my studies in a more organised way so I spent a long time reading and learning about [OBS](https://obsproject.com/). I need to get a decent microphone as I'm getting way too many background noise with my built-in one during my hangout sessions. Yeah, I got side tracked because of this... I could have spent some extra time studying and building things but teaching became an important thing for me during these 100 days of code.
 
 ### R1D33
-Today I just watched some VueJS tutorials to get the differences with React. I also read a bit more of [@YDKJS]((https://twitter.com/YDKJS). I got sidetracked again with [OBS](https://obsproject.com/) tutorials and testing a new microphone. 
+Today I just watched some VueJS tutorials to get the differences with React. I also read a bit more of [@YDKJS](https://twitter.com/YDKJS). I got sidetracked again with [OBS](https://obsproject.com/) tutorials and testing a new microphone. 
 
 ### R1D33
 Today I worked on my Random Quote Machine VueJS implementation. I just need to sort out a bug and then I'm done with it!
@@ -111,7 +111,7 @@ Today I worked on my Random Quote Machine VueJS implementation. I just need to s
 Today I studied a bit of Functional Programming and tried to debug my VueJS app... still no luck :-(
 
 ## R1D35
-Today I studied and did a lot of Functional Programming exercises: Functors, Monads, Curring, Partial Application, Memoization and Transducers. I also read some bits of [@YDKJS]((https://twitter.com/YDKJS).
+Today I studied and did a lot of Functional Programming exercises: Functors, Monads, Curring, Partial Application, Memoization and Transducers. I also read some bits of [@YDKJS](https://twitter.com/YDKJS).
 
 ## R1D36
-Today I studied a bit of Functional Programming (Monads) and I finished the VueJS version of my Random Quote Machine. I also started changing the API because the original one is quote unreliable. I'll push all the new versions live and to codepen tomorrow. I also read some bits of [@YDKJS]((https://twitter.com/YDKJS).
+Today I studied a bit of Functional Programming (Monads) and I finished the VueJS version of my Random Quote Machine. I also started changing the API because the original one is quote unreliable. I'll push all the new versions live and to codepen tomorrow. I also read some bits of [@YDKJS](https://twitter.com/YDKJS).
