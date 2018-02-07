@@ -112,3 +112,6 @@ Today I studied a bit of Functional Programming and tried to debug my VueJS app.
 
 ## R1D35
 Today I studied and did a lot of Functional Programming exercises: Functors, Monads, Curring, Partial Application, Memoization and Transducers. I also read some bits of [@YDKJS]((https://twitter.com/YDKJS).
+
+## R1D36
+Today I studied a bit of Functional Programming (Monads) and I finished the VueJS version of my Random Quote Machine. I also started changing the API because the original one is quote unreliable. I'll push all the new versions live and to codepen tomorrow. I also read some bits of [@YDKJS]((https://twitter.com/YDKJS).
