@@ -115,3 +115,6 @@ Today I studied and did a lot of Functional Programming exercises: Functors, Mon
 
 ## R1D36
 Today I studied a bit of Functional Programming (Monads) and I finished the VueJS version of my Random Quote Machine. I also started changing the API because the original one is quote unreliable. I'll push all the new versions live and to codepen tomorrow. I also read some bits of [@YDKJS](https://twitter.com/YDKJS).
+
+## R1D37
+Today I read a bit of [@YDKJS](https://twitter.com/YDKJS) and replaced API on my Random Quote Machine versions. I also started a Show the Local Weather app challenge on [FreeCodeCamp](https://www.freecodecamp.org). I also found out that [@artoo_O](https://twitter.com/artoo_O) got [his FCC Frontend Certificate](https://www.freecodecamp.org/artoodeeto/front-end-certification) and I'm really proud of him!!!
