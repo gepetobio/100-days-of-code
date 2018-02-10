@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D40
+Today I worked a bit more on my Local Weather app. Already displaying the location (city), the temperature and the description of the weather. I also read some bits of [@YDKJS](https://twitter.com/YDKJS).
+
 ### R1D39
 Today I worked on my Local Weather app in vanilla JavaScript. Integrated the API and tomorrow I'll start working on the markup and styles. I also read some bits of [@YDKJS](https://twitter.com/YDKJS). And I realised I had duplicated R1D33 on my logs so today is in fact Day 39.
 
