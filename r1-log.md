@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D41
+Today I read a lot of [@YDKJS](https://twitter.com/YDKJS) as I didn't have my computer with me. But in the end I've managed to setup a netbook with git and vim and I had a chance to do some node.js exercises.
+
 ### R1D40
 Today I worked a bit more on my Local Weather app. Already displaying the location (city), the temperature and the description of the weather. I also read some bits of [@YDKJS](https://twitter.com/YDKJS).
 
