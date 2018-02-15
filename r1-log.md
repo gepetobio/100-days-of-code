@@ -4,6 +4,18 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D45 
+
+Once more, today I read a bit of [@YDKJS](https://twitter.com/YDKJS) and did more functional programming exercises with the nodeschool Functional JavaScript workshop. Also did a code review session with [@artoo_O](https://twitter.com/artoo_O). Tomorrow I'll probably get back to my Local Weather app.
+
+### R1D44 
+
+Same as yesterday, today I read a bit of [@YDKJS](https://twitter.com/YDKJS) and did more functional programming exercises with the nodeschool Functional JavaScript workshop.
+
+### R1D43 
+
+Today, again, I read a bit of [@YDKJS](https://twitter.com/YDKJS) and did more functional programming exercises with the nodeschool Functional JavaScript workshop.
+
 ### R1D42
 Today I read some bits of [@YDKJS](https://twitter.com/YDKJS) and did some functional programming exercises with the nodeschool Functional JavaScript workshop.
 
