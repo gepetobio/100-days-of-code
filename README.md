@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
 
+I started on the 1st of January, 2018. You can see my Round 1 progress [here](https://github.com/gepetobio/100-days-of-code/blob/master/r1-log.md). I plan to keep coding past 100 days but let's see how it goes ;-)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
