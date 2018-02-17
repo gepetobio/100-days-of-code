@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D48
+Today I worked a bit more on my Local Weather app. Enabled the toggle functionality on the temperature and stared refactoring the markup and adding the new styles. I also read a bit of [@YDKJS](https://twitter.com/YDKJS) as usual.
+
+### R1D47 
+Today I worked on my Local Weather app and did a presentation about ES6 features to the other developers of the company I work for. It was really cool as most of them are PHP developers and but know enough of JavaScript but haven't really learned ES6 new features. I also read a bit of [@YDKJS](https://twitter.com/YDKJS) as usual.
+
 ### R1D46
 Today I fixed a minor bug on the VueJS version of my Random Quote Machine app. I also I worked on my Local Weather app (Vanilla JS version). For personal reasons, I spent a long time researching how to create Chrome extensions and how to parse an HTML table to OSX format. I may need to create this extension at some point in the following week or so. I also read a bit of [@YDKJS](https://twitter.com/YDKJS) as usual.
 
