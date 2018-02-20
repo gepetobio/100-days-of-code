@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D50
+Hurray, half way there!!! Today I finished the clean up on the [vanilla JavaScript version of my Local Weather app](https://codepen.io/gepetobio/full/vdyzjq/) and started the jQuery version. I also finished reading Sope & Closures [@YDKJS](https://twitter.com/YDKJS) book.
+
+### R1D49
+Today I finished the styles and the icon functionality on my Local Weather app. Just need to clean up and refactor some things. I also read a bit of [@YDKJS](https://twitter.com/YDKJS) as usual.
+
 ### R1D48
 Today I worked a bit more on my Local Weather app. Enabled the toggle functionality on the temperature and stared refactoring the markup and adding the new styles. I also read a bit of [@YDKJS](https://twitter.com/YDKJS) as usual.
 
