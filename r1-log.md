@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D52
+Today it was a more theoretical study day. I read some bits of [@YDKJS](https://twitter.com/YDKJS) and started reading [JavaScript Allongé – the "Six" Edition](https://leanpub.com/javascriptallongesix/read). I did lots of the proposed exercises to follow along and learned some new things about JS along the way. I also worked a bit on the React Version of my Local Weather app.
+
 ### R1D51
 Today I finished the jQuery version of my Local Weather app and starte the React version. I also started reading `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) book.
 
