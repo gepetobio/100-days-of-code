@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D56
+Today I read a bit of [JavaScript Allongé – the "Six" Edition](https://leanpub.com/javascriptallongesix/read) and a bit of [@YDKJS](https://twitter.com/YDKJS) ES6 & Beyond. I also worked on the React version of my Local Weather app. Couldn't fix a bug... not sure what I'm doing wrong. Maybe tomorrow...
+
 ### R1D55
 Today I read a chapter of [JavaScript Allongé – the "Six" Edition](https://leanpub.com/javascriptallongesix/read) and followed along with the examples in the book.
 
