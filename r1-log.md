@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D57
+Today I started refactoring the React version of my Local Weather app. It's still a WIP, but making some progress. I also started collaborating with the [ireconcile git repo](https://github.com/brandonpowell/ireconcile-theme), quickly helped [@artoo_O](https://twitter.com/artoo_O) with some CSS questions and read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS).
+
 ### R1D56
 Today I read a bit of [JavaScript Allongé – the "Six" Edition](https://leanpub.com/javascriptallongesix/read) and a bit of [@YDKJS](https://twitter.com/YDKJS) ES6 & Beyond. I also worked on the React version of my Local Weather app. Couldn't fix a bug... not sure what I'm doing wrong. Maybe tomorrow...
 
