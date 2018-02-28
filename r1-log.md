@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D58
+Today I started working on my [Portfolio](http://gledsleymuller.com/) again. I need to add a new mentorship section and refactor some of the old gulp and bower setup I had. I'll probably have it sorted tomorrow and hopefully will be able to push it live ;-)
+
 ### R1D57
 Today I started refactoring the React version of my Local Weather app. It's still a WIP, but making some progress. I also started collaborating with the [ireconcile git repo](https://github.com/brandonpowell/ireconcile-theme), quickly helped [@artoo_O](https://twitter.com/artoo_O) with some CSS questions and read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS).
 
