@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D59
+Today I finished the updates on my [Portfolio](http://gledsleymuller.com/) and pushed live! I also read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) and started watching `Functional-Light JavaScript, v2` on [Frontend Masters](https://frontendmasters.com/courses/functional-javascript-v2/).
+
 ### R1D58
 Today I started working on my [Portfolio](http://gledsleymuller.com/) again. I need to add a new mentorship section and refactor some of the old gulp and bower setup I had. I'll probably have it sorted tomorrow and hopefully will be able to push it live ;-)
 
