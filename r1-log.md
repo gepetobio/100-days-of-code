@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D61
+Today I read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) and kept watching `Functional-Light JavaScript, v2` on [Frontend Masters](https://frontendmasters.com/courses/functional-javascript-v2/). I also had a meeting to discuss the [ireconcile git repo](https://github.com/brandonpowell/ireconcile-theme) project with its lead developer. 
+
 ### R1D60
 Hurray, 40 days to go!!! Today I refactored the copy of my [Portfolio](http://gledsleymuller.com/). I also kept watching and doing the exercises on `Functional-Light JavaScript, v2` on [Frontend Masters](https://frontendmasters.com/courses/functional-javascript-v2/). For the React version of my Local Weather app, I decided to go full React environment and started installing prettier, eslint, webpack and babel. I'll keep working on the setup tomorrow, if all goes as planned.
 
