@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D62
+Today I recorded the initial parts of a series of screencasts that teach how to build websites with HTML, CSS and JavaScript. I've been playign around with [OBS](https://obsproject.com/) and I think I'm ready to make this happen. I've also studied a bit of Functional Programming and kept watching `Functional-Light JavaScript, v2` on [Frontend Masters](https://frontendmasters.com/courses/functional-javascript-v2/). I also read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS). Today was one of the most productive days since I started the challenge.
+
 ### R1D61
 Today I read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) and kept watching `Functional-Light JavaScript, v2` on [Frontend Masters](https://frontendmasters.com/courses/functional-javascript-v2/). I also had a meeting to discuss the [ireconcile git repo](https://github.com/brandonpowell/ireconcile-theme) project with its lead developer. 
 
