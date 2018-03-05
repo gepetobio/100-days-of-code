@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D63
+No recordings today (I had to travel) but will keep working on the screencasts during the week. For work reasons, I'll have to change my focus from React and Functional Programming to VueJS. So I started watching [Introduction to Vue.js](https://frontendmasters.com/courses/vue) on [Frontend Masters](https://frontendmasters.com/courses/vue) with [Sarah Drasner](https://twitter.com/sarah_edo) and it's been great so far! Great exercises and examples!
+
 ### R1D62
 Today I recorded the initial parts of a series of screencasts that teach how to build websites with HTML, CSS and JavaScript. I've been playign around with [OBS](https://obsproject.com/) and I think I'm ready to make this happen. I've also studied a bit of Functional Programming and kept watching `Functional-Light JavaScript, v2` on [Frontend Masters](https://frontendmasters.com/courses/functional-javascript-v2/). I also read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS). Today was one of the most productive days since I started the challenge.
 
