@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D64
+I had some technical issues with my recordings so got delayed again. I kept watching [Introduction to Vue.js](https://frontendmasters.com/courses/vue) on [Frontend Masters](https://frontendmasters.com/courses/vue) and working on the exercises. I also helped [Brandon](https://github.com/brandonpowell) on his [ireconcile project](https://github.com/brandonpowell/ireconcile-theme). In the end of the day, I met [Ray](https://twitter.com/Rupi_Ray) and discussed some issues he had with an API. One of the great things about this challenge is the amount of developers I am meeting and exchanging ideas/info/knowledge!
+
 ### R1D63
 No recordings today (I had to travel) but will keep working on the screencasts during the week. For work reasons, I'll have to change my focus from React and Functional Programming to VueJS. So I started watching [Introduction to Vue.js](https://frontendmasters.com/courses/vue) on [Frontend Masters](https://frontendmasters.com/courses/vue) with [Sarah Drasner](https://twitter.com/sarah_edo) and it's been great so far! Great exercises and examples!
 
