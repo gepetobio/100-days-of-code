@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 ## Log
 
 ### R1D65
-Today I finished watching [Introduction to Vue.js](https://frontendmasters.com/courses/vue) on [Frontend Masters](https://frontendmasters.com/courses/vue) and started a new pet project. The idea is to build a Vue/Nuxt SPA that fetches data from a Wordpress installation using graphQL. Wordpress bit done, graphQL endpoint ready and working. Vue/Nuxt basics all set. I'll start fetching the data tomorrow. Really good progress for one day!
+Today I finished watching [Introduction to Vue.js](https://frontendmasters.com/courses/vue) on [Frontend Masters](https://frontendmasters.com/courses/vue) and started a new pet project. The idea is to build a Vue/Nuxt SPA that fetches data from a Wordpress installation using graphQL. Wordpress bit done, graphQL endpoint ready and working. Vue/Nuxt basics all set. I'll start fetching the data tomorrow. I also helped [Ray](https://twitter.com/Rupi_Ray) with one of his JavaScript projects. Really good progress for one day!
 
 ### R1D64
 I had some technical issues with my recordings so got delayed again. I kept watching [Introduction to Vue.js](https://frontendmasters.com/courses/vue) on [Frontend Masters](https://frontendmasters.com/courses/vue) and working on the exercises. I also helped [Brandon](https://github.com/brandonpowell) on his [ireconcile project](https://github.com/brandonpowell/ireconcile-theme). In the end of the day, I met [Ray](https://twitter.com/Rupi_Ray) and discussed some issues he had with an API. One of the great things about this challenge is the amount of developers I am meeting and exchanging ideas/info/knowledge!
