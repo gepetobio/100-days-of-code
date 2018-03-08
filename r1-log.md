@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D66
+Today I read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) and kept working on my Vue/Nuxt project. I'm adding pages modules but I'm not sure if the [WP GraphQL plugin](https://github.com/wp-graphql/wp-graphql) is mature enough for my project. I may have to revert back to the Wordpress API instead. I also joined [@jjeadon](https://twitter.com/jjeadon) on a [@codebuddiesmeet](https://twitter.com/codebuddiesmeet) session about Command Line Basics.
+
 ### R1D65
 Today I finished watching [Introduction to Vue.js](https://frontendmasters.com/courses/vue) on [Frontend Masters](https://frontendmasters.com/courses/vue) and started a new pet project. The idea is to build a Vue/Nuxt SPA that fetches data from a Wordpress installation using graphQL. Wordpress bit done, graphQL endpoint ready and working. Vue/Nuxt basics all set. I'll start fetching the data tomorrow. I also helped [Ray](https://twitter.com/Rupi_Ray) with one of his JavaScript projects. Really good progress for one day!
 
@@ -179,7 +182,7 @@ Today I studied React, built some components and learned some new tricks. Starte
 Today I studied Functional Programming (Maps, Functors and a bit of Monads) – and that was intense on its own! I also studied a bit more about Redux and authentication. I finished building my FCC portfolio page (a bit of a partial copy of my real portfolio website), helped [@artoo_O](https://twitter.com/artoo_O) with some HTML and CSS demo (building yet another FCC Portfolio page) on another hangout session.
 
 ### R1D7
-Today I managed to refactor my piece of code from yesterday and it works without bugs! Tests all green, hurray! Also started to build my FCC portfolio page. I've been sharing a google hangout link for the last 4 or 5 days and today I met some cool guys!
+Today I managed to refactor my piece of code from yesterday and it works without bugs! Tests all green, hurray! Also started to build my FCC portfolio page. I've been sharing a google hangout link for the last 4 or 5 days and today I met some cool guys - [@artoo_O](https://twitter.com/artoo_O) [@jjeadon](https://twitter.com/jjeadon) [@warbornx](https://twitter.com/warbornx) and [@super_raay](https://twitter.com/super_raay).
 
 ### R1D6
 Today I studied a bit of Functional Programming and worked on refactoring a piece of code that I wasn't happy with. I failed: found a bug on the original code, couldn't fix it and I'm still not happy with it. Least productive day so far :-(
