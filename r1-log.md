@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D67
+Today I kept working on my Vue/Nuxt project. I'm still transforming the original website bits into components but now I got to a news section and I have to make the graphQL call to fetch all the elements. I started reading the [Vue Apollo](https://github.com/Akryum/vue-apollo) documentation before installing the package.
+
 ### R1D66
 Today I read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) and kept working on my Vue/Nuxt project. I'm adding pages modules but I'm not sure if the [WP GraphQL plugin](https://github.com/wp-graphql/wp-graphql) is mature enough for my project. I may have to revert back to the Wordpress API instead. I also joined [@jjeadon](https://twitter.com/jjeadon) on a [@codebuddiesmeet](https://twitter.com/codebuddiesmeet) session about Command Line Basics.
 
