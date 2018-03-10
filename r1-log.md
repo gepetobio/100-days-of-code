@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D68
+Today I installed [Apollo Module](https://github.com/nuxt-community/apollo-module) on my Vue/Nuxt project and tried to make the first query but I didn't manage to make it work. It's probably a silly mistake but I'm too tired to find the issue... better hit the bed and check this issue tomorrow with a rested brain :P
+
 ### R1D67
 Today I kept working on my Vue/Nuxt project. I'm still transforming the original website bits into components but now I got to a news section and I have to make the graphQL call to fetch all the elements. I started reading the [Vue Apollo](https://github.com/Akryum/vue-apollo) documentation before installing the package.
 
