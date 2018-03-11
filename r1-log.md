@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D69
+Today I kept working on my Vue/Nuxt project and tried to make the [Apollo Module](https://github.com/nuxt-community/apollo-module) work with the subscription example but without any luck. I saw more people with the same issues I faced but one of the responses said that the module lacked documentation. So, will keep working on the issue tomorrow.
+
 ### R1D68
 Today I installed [Apollo Module](https://github.com/nuxt-community/apollo-module) on my Vue/Nuxt project and tried to make the first query but I didn't manage to make it work. It's probably a silly mistake but I'm too tired to find the issue... better hit the bed and check this issue tomorrow with a rested brain :P
 
