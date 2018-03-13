@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D71
+Today I worked on a couple of VueJS projects and read a bit more about [Vue Apollo](https://github.com/Akryum/vue-apollo). I also watched a [@vuejsamsterdam](https://twitter.com/vuejsamsterdam) presentation given by [@posva](https://twitter.com/posva) about [Vue Animations](https://www.youtube.com/watch?v=A6FPWsPdfuc). And I quickly pointed [@artoo_O](https://twitter.com/artoo_O) to a documentation about React setState.
+
 ### R1D70
 30 days to go!!! Today I kept struggling with [Apollo Module](https://github.com/nuxt-community/apollo-module) on my Vue/Nuxt project. I spent a long time reading the code on the repo but still no luck. I'll read a bit more about [Vue Apollo](https://github.com/Akryum/vue-apollo) tomorrow and see if I can find out something that may help me :-(
 
