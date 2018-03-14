@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D72
+Today I worked on a VueJS project that was already built but needed some updates and upgrades. I started studying a computed properties more in depth as I'll need to use filtering. I also stared watching @youyuxi [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) on [@FrontendMasters](https://twitter.com/FrontendMasters).
+
 ### R1D71
 Today I worked on a couple of VueJS projects and read a bit more about [Vue Apollo](https://github.com/Akryum/vue-apollo). I also watched a [@vuejsamsterdam](https://twitter.com/vuejsamsterdam) presentation given by [@posva](https://twitter.com/posva) about [Vue Animations](https://www.youtube.com/watch?v=A6FPWsPdfuc). And I quickly pointed [@artoo_O](https://twitter.com/artoo_O) to a documentation about React setState.
 
