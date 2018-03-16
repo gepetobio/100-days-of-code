@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D74
+Today I kept studying VueJS and doing some exercises. I also kept watching @youyuxi [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) on [@FrontendMasters](https://twitter.com/FrontendMasters).
+
 ### R1D73
 Today I worked on the same VueJS project as yesterday. I had to implement some filtering functionality and it worked quite nicely! I also read a bit more about [Vue Apollo](https://github.com/Akryum/vue-apollo) and [WP GraphQL plugin](https://github.com/wp-graphql/wp-graphql). And in the end of the day I read a bit more of [@YDKJS](https://twitter.com/YDKJS).
 
