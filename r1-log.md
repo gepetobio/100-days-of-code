@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D77
+Today I worked on some VueJS exercises to serve as exemples to a quick introduction course I'm preparing to my colleagues. Nothing fancy so far hehehe.
+
 ### R1D76
 Today I worked on my video tutorials. But I had some technical problems and spent a long time sorting things out. For that reason, I ended up studying just a bit of VueJS.
 
