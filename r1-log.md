@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D76
+Today I worked on my video tutorials. But I had some technical problems and spent a long time sorting things out. For that reason, I ended up studying just a bit of VueJS.
+
 ### R1D75
 Today I worked on some VueJS exercises (I'm preparing a batch of examples in order to teach some of my colleagues) and read some pieces of the [Vue Apollo](https://github.com/Akryum/vue-apollo) source code. I'm starting to get a better understanding of how it works.
 
