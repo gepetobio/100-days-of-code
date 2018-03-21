@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D79
+Today I read about VueJS form validation and editable SVG icon system on [Vue Cookbook](https://vuejs.org/v2/cookbook/). 
+
 ### R1D78
 Today I kept working on some VueJS exercises/examples to my course. But I also read a good article about state management in React thanks to [@ralffting](https://twitter.com/ralffting). All these days studying VueJS after a long time studying React left me with a big dilema: I've got to start a possibly really big personal project... so, which one should I use? React or Vue???
 
