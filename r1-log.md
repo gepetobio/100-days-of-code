@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D80
+Today I studied VueJS a bit more and followed all the videos on [Vue Mastery](https://www.vuemastery.com). I also downloaded and read through their [cheat sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf). 20 days to go!!!
+
 ### R1D79
 Today I read about VueJS form validation and editable SVG icon system on [Vue Cookbook](https://vuejs.org/v2/cookbook/). 
 
