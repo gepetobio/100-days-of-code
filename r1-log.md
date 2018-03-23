@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D81
+Today I went back to the [Apollo Module](https://github.com/nuxt-community/apollo-module) integration with [WP GraphQL plugin](https://github.com/wp-graphql/wp-graphql). Still no luck, but every day I struggle I learn a bit more about [Vue Apollo](https://github.com/Akryum/vue-apollo). I'll get there, eventually :P
+
 ### R1D80
 Today I studied VueJS a bit more and followed all the videos on [Vue Mastery](https://www.vuemastery.com). I also downloaded and read through their [cheat sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf). 20 days to go!!!
 
