@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D83
+Today I worked on a couple of VueJS examples for the course I'm preparing for my colleagues. Still some simple examples to explore the basics of Vue.
+
 ### R1D82
 Today was a really short VueJS study session... it's Friday and I'm really tired! Just read some documentation and watched a bit of a tutorial to clarify some concepts. Nothing too fancy or glamorous... just avoiding [Apollo Module](https://github.com/nuxt-community/apollo-module) today.
 
