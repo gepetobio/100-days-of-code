@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D85
+Today, after a long time, I reviewed some Functional Programming concepts and worked a bit with [Ramda.js](http://ramdajs.com/) library. It felt good to realise that I still remember several concepts even though I haven't really touched the theory of FP since day 63.
+
 ### R1D84
 Today I studied a bit more of VueJS, read a bit of [@YDKJS](https://twitter.com/YDKJS) and started a secret plan with [@artoo_O](https://twitter.com/artoo_O). It will all start with a github repository ;-)
 
