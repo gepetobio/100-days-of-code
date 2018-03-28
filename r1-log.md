@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D86
+Today I'm back to VueJS, watched [Advanced Fine-Grained Control of Vue.js Components](https://egghead.io/courses/advanced-fine-grained-control-of-vue-js-components) and the first lessons of [Create a News App with Vue.js and Nuxt](https://egghead.io/courses/create-a-news-app-with-vue-js-and-nuxt) on [egghead.io](https://egghead.io) with [@johnlindquist](https://twitter.com/johnlindquist). I really loved the tips he gave on the Fine-Grained Control course! Can't say much about the second course so far. I also did a bit of a code review on a Vue project [@super_raay](https://twitter.com/super_raay) is working on ;-)
+
 ### R1D85
 Today, after a long time, I reviewed some Functional Programming concepts and worked a bit with [Ramda.js](http://ramdajs.com/) library. It felt good to realise that I still remember several concepts even though I haven't really touched the theory of FP since day 63.
 
