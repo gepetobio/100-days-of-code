@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D88
+Although I'm really tired, today I managed to study Vue a lot, kept reading about [Apollo Module](https://github.com/nuxt-community/apollo-module) and [Vue Apollo](https://github.com/Akryum/vue-apollo) but still no success. Apparently I'm missing something so basic that I can't even find good leads on google/stackoverflow. As I don't have a prototype to show (the project I'm working is a VueJS rebuild of the company I work for and I can't just share on github) I can't easily ask questions or show what I'm facing. I also found out that the Vue Apollo Discord channel is not helpful at all. You post your problem, nobody replies and you just see stacked unanswered questions (and probably frustrated devs on the other side). But probably I'm just grumpy because I'm tired :P 
+
+### R1D87
+Today was a broken day... too busy with work and personal things and the studies were just some video tutorials I needed to review to clarify some VueJS concepts. I'll catch up tomorrow and during the weekend though. NO ZERO DAYS!
+
 ### R1D86
 Today I'm back to VueJS, watched [Advanced Fine-Grained Control of Vue.js Components](https://egghead.io/courses/advanced-fine-grained-control-of-vue-js-components) and the first lessons of [Create a News App with Vue.js and Nuxt](https://egghead.io/courses/create-a-news-app-with-vue-js-and-nuxt) on [egghead.io](https://egghead.io) with [@johnlindquist](https://twitter.com/johnlindquist). I really loved the tips he gave on the Fine-Grained Control course! Can't say much about the second course so far. I also did a bit of a code review on a Vue project [@super_raay](https://twitter.com/super_raay) is working on ;-)
 
