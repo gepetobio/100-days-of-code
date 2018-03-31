@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D89
+Today I kept reading some issues on [Apollo Module](https://github.com/nuxt-community/apollo-module) and [Vue Apollo](https://github.com/Akryum/vue-apollo) to get some deeper knowledge about the issues I'm facing. But then I decided to go back to the basics and find out a bit more about [GraphQL](http://graphql.org/) itself. And I realised that I was missing some important concepts of the technology. I also found out about [How to GraphQL](https://www.howtographql.com) website. I'm still watching the video tutorials but I already have a better understanding of GraphQL.
+
 ### R1D88
 Although I'm really tired, today I managed to study Vue a lot, kept reading about [Apollo Module](https://github.com/nuxt-community/apollo-module) and [Vue Apollo](https://github.com/Akryum/vue-apollo) but still no success. Apparently I'm missing something so basic that I can't even find good leads on google/stackoverflow. As I don't have a prototype to show (the project I'm working is a VueJS rebuild of the company I work for and I can't just share on github) I can't easily ask questions or show what I'm facing. I also found out that the Vue Apollo Discord channel is not helpful at all. You post your problem, nobody replies and you just see stacked unanswered questions (and probably frustrated devs on the other side). But probably I'm just grumpy because I'm tired :P 
 
