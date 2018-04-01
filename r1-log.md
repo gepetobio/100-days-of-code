@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D90
+10 days to go!!! Today I kept watching/reading [How to GraphQL](https://www.howtographql.com) website resources. Now I know the specifics of client and server side more in-depth. I also started reading [Apollo GraphQL](https://www.apollographql.com/) website. Once I'm done with this documentation, I'll get back to [How to GraphQL Vue Apollo example](https://www.howtographql.com/vue-apollo/) and follow the tutorial. I hope by then I'll be able to sort out the issues I'm getting on my personal project. Meanwhile, I lot of reading and grasping new concepts...
+
 ### R1D89
 Today I kept reading some issues on [Apollo Module](https://github.com/nuxt-community/apollo-module) and [Vue Apollo](https://github.com/Akryum/vue-apollo) to get some deeper knowledge about the issues I'm facing. But then I decided to go back to the basics and find out a bit more about [GraphQL](http://graphql.org/) itself. And I realised that I was missing some important concepts of the technology. I also found out about [How to GraphQL](https://www.howtographql.com) website. I'm still watching the video tutorials but I already have a better understanding of GraphQL.
 
