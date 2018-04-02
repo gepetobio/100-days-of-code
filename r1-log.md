@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D91
+Today I reading [Apollo GraphQL Client](https://www.apollographql.com/docs/react/) documentation and created a brand new test project using [Nuxt.js](https://nuxtjs.org/guide/installation) with the starter template. I then followed the [Apollo Module](https://github.com/nuxt-community/apollo-module) documentation and this new project shows the same error as my previous one. So, now I know it's not something that I had previously added to my original project that is causing the issue. I also know that the documentation on the Apollo Module repo is not enough for a noobie like me to make the thing work. I'll set up a demo somewhere tomorrow to try to get some help.
+
 ### R1D90
 10 days to go!!! Today I kept watching/reading [How to GraphQL](https://www.howtographql.com) website resources. Now I know the specifics of client and server side more in-depth. I also started reading [Apollo GraphQL](https://www.apollographql.com/) website. Once I'm done with this documentation, I'll get back to [How to GraphQL Vue Apollo example](https://www.howtographql.com/vue-apollo/) and follow the tutorial. I hope by then I'll be able to sort out the issues I'm getting on my personal project. Meanwhile, I lot of reading and grasping new concepts...
 
