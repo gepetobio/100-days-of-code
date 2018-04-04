@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D93
+Today I spent some time reading about [Vue transitions](https://vuejs.org/v2/guide/transitions.html) and revisited the [Vue course](https://frontendmasters.com/courses/vue/) on [@FrontendMasters](https://twitter.com/frontendmasters) with [@sarah_edo](https://twitter.com/sarah_edo). I also kept working on my Nuxt [Vue Apollo](https://github.com/Akryum/vue-apollo) project but still can't fetch the data. 
+
+### R1D92
+Today I had limited access to my computer so I mostly read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) and a bit of [Apollo GraphQL Client](https://www.apollographql.com/docs/react/) documentation.
+
 ### R1D91
 Today I reading [Apollo GraphQL Client](https://www.apollographql.com/docs/react/) documentation and created a brand new test project using [Nuxt.js](https://nuxtjs.org/guide/installation) with the starter template. I then followed the [Apollo Module](https://github.com/nuxt-community/apollo-module) documentation and this new project shows the same error as my previous one. So, now I know it's not something that I had previously added to my original project that is causing the issue. I also know that the documentation on the Apollo Module repo is not enough for a noobie like me to make the thing work. I'll set up a demo somewhere tomorrow to try to get some help.
 
