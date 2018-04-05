@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D94
+Today I'm officially throwing the towel and looking for someone with knowledge on [Vue Apollo](https://github.com/Akryum/vue-apollo) to help me out on a pair programming session. I've spent way too long just reading the documentations but still can't make my app work. While I don't find this kind soul, I studied a bit of Functional Programming and learned a bit more about Execution Context and Call Stack in JavaScript.
+
 ### R1D93
 Today I spent some time reading about [Vue transitions](https://vuejs.org/v2/guide/transitions.html) and revisited the [Vue course](https://frontendmasters.com/courses/vue/) on [@FrontendMasters](https://twitter.com/frontendmasters) with [@sarah_edo](https://twitter.com/sarah_edo). I also kept working on my Nuxt [Vue Apollo](https://github.com/Akryum/vue-apollo) project but still can't fetch the data. 
 
