@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 ## Log
 
 ### R1D96
-Today I worked with some JavaScript exercises, mainly following the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) on [@FrontendMasters])https://twitter.com/FrontendMasters). 
+Today I worked with some JavaScript exercises, mainly following the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) on [@FrontendMasters](https://twitter.com/FrontendMasters). 
 
 ### R1D95
 5 days to go!!! Today I set up a repo to allow [@kevinshoultz](https://twitter.com/kevinshoultz) to have a look and possibly help me. I also studied a bit of Functional Programming and some reduce exercises.
