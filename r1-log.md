@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D99
+ONE DAY TO GO!!! Today I spent all the time I had to study reviewing a project I'm working with [@artoo_O](https://twitter.com/artoo_O). Code review (SASS, CSS and HTML), written feedback, prototype built to show differences.
+
 ### R1D98
 2 days to go!!! Today I didn't have much time on in front of the computer. But I could listen to [Evan You's interview on Software Engineering Daily (2015)](https://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/). I also kept following the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) on [@FrontendMasters](https://twitter.com/FrontendMasters) and when I had time to sit in front of the computer, I did work on the proposed exercises. I've got to say that [@willsentance](https://twitter.com/willsentance)'s visual explanations of global memory, global environment, call stack and closure were the best I've ever seen since I started working with JavaScript.
 
