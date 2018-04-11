@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on January 1st, Monday, 2018.
 
 ## Log
 
+### R1D100
+Yes, I did it!!! Hurray!!! Today I had to drive for  while so I kept listening to [Evan You's interview on Software Engineering Daily (2015)](https://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/) – yeah, I still haven't finished that – and ketp working on the [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) exercises! Tomorrow, R2D1!
+
 ### R1D99
 ONE DAY TO GO!!! Today I spent all the time I had to study reviewing a project I'm working with [@artoo_O](https://twitter.com/artoo_O). Code review (SASS, CSS and HTML), written feedback, prototype built to show differences.
 
