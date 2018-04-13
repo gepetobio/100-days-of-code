@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 ## Log
 
 ### R2D2
-![alt text](r2d2.jpg "R2-D2")
+![alt text](https://www.sideshowtoy.com/wp-content/uploads/2016/04/star-wars-r2-d2-legendary-scale-feature-400155.jpg "R2-D2")
 Finally the day I wanted to get to hahahaha! Today I worked mostly on my FreeCodeCamp Youtube tutorial. Nothing more than HTML, CSS and soon some JavaScript ;-)
 
 ### R2D1
