@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D4
+Today I did a bit of a review in a project I'm working with [@artoo_O](https://twitter.com/artoo_O) and kept working on my FreeCodeCamp Youtube tutorial. I also read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS). I can't rush this book... the first two books of the series were not as dense as this one. I may even read it again once I'm done with it.
+
+### R2D3
+Today I read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS) and worked on my FreeCodeCamp Youtube tutorial. I won't deny that I also had to spend some time doing some video editing apart from reviewing my explanations. So, not entirely coding per se...
+
 ### R2D2
 ![alt text](https://www.sideshowtoy.com/wp-content/uploads/2016/04/star-wars-r2-d2-legendary-scale-feature-400155.jpg "R2-D2")
 Finally the day I wanted to get to hahahaha! Today I worked mostly on my FreeCodeCamp Youtube tutorial. Nothing more than HTML, CSS and soon some JavaScript ;-)
