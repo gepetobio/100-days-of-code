@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D5
+Today I read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS),  worked on my FreeCodeCamp Youtube tutorial and kept working on [Codesmith CSX](https://csx.codesmith.io/).
+
 ### R2D4
 Today I did a bit of a review in a project I'm working with [@artoo_O](https://twitter.com/artoo_O) and kept working on my FreeCodeCamp Youtube tutorial. I also read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS). I can't rush this book... the first two books of the series were not as dense as this one. I may even read it again once I'm done with it.
 
