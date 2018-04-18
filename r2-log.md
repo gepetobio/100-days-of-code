@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D7
+Today I'm also really tired but I've managed to work on some [Codesmith CSX](https://csx.codesmith.io/) exercises. 
+
+### R2D6
+Today I had to drive for a while so I could listen to an [Indie Hackers](https://www.indiehackers.com/) episode. In the end of the day, I was so tired that I could barely read a couple of paragraphs of [@YDKJS](https://twitter.com/YDKJS) but NO ZERO DAYS!
+
 ### R2D5
 Today I read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS),  worked on my FreeCodeCamp Youtube tutorial and kept working on [Codesmith CSX](https://csx.codesmith.io/).
 
