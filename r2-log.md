@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D8
+Today I kept following the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) on [@FrontendMasters](https://twitter.com/FrontendMasters) and also joined the [@Codesmith](https://twitter.com/Codesmith) CSX Office Hours zoom meeting.
+
 ### R2D7
 Today I'm also really tired but I've managed to work on some [Codesmith CSX](https://csx.codesmith.io/) exercises. 
 
