@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D12
+Today I kept following the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) on [@FrontendMasters](https://twitter.com/FrontendMasters) and worked on some of the proposed exercises about Object.create and the `new` keyword.
+
+### R2D11
+
+Today I read a bit of the [Frontend Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) and had a quick look at some [Codesmith CSX](https://csx.codesmith.io/) exercises.
+
 ### R2D10
 
 Today I kept following the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) on [@FrontendMasters](https://twitter.com/FrontendMasters) and some [Codesmith CSX](https://csx.codesmith.io/) exercises.
