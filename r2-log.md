@@ -4,7 +4,16 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D14
+
+Today I kept watching [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and I worked on some exercises proposed on the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) while reviewing it.
+
+### R2D13
+
+Today I finished watching the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) and kept working on the proposed exercises. I also re-started watching [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and review some Functional Programming concepts.
+
 ### R2D12
+
 Today I kept following the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) on [@FrontendMasters](https://twitter.com/FrontendMasters) and worked on some of the proposed exercises about Object.create and the `new` keyword.
 
 ### R2D11
