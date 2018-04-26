@@ -4,13 +4,17 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D15
+
+Today I finished working on the callback exercises of [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/). I also reviewed some bits of `Scope & Closures` [@YDKJS](https://twitter.com/YDKJS) book to clarify how the JavaScript compiler works and the hoisting sequence (functions then variables). I also watched some bits of [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/).
+
 ### R2D14
 
 Today I kept watching [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and I worked on some exercises proposed on the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) while reviewing it.
 
 ### R2D13
 
-Today I finished watching the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) and kept working on the proposed exercises. I also re-started watching [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and review some Functional Programming concepts.
+Today I finished watching the course [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) and kept working on the proposed exercises. I also re-started watching [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and reviewed some Functional Programming concepts.
 
 ### R2D12
 
