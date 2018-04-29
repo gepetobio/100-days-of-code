@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D18
+
+Today I worked on the last closure exercise of [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) and studied a bit more about how the Event Loop works. I can finally say that this concept is completely clear in my mind!!!
+
+### R2D17
+
+Today I worked on some closure exercises of [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) and almost finished the list.
+
 ### R2D16
 
 Today I followed a bit more of [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and worked on some closure exercises of [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/). Writing down in a piece of paper how a small script behaves in terms of the Global Execution Context, Global Memory, Local Execution Context, Local Memory and Call Stack, Callback Queue and Event Loop is enlightening! I most definitely reached a brand new level of understanding of how JavaScript works! [@willsentance](https://twitter.com/willsentance)'s explanations were amazing!
