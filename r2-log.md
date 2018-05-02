@@ -4,6 +4,17 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D21
+
+Today I worked on some async exercises of [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) and also read a bit more in-depth documentation about the Event Loop.
+
+### R2D20
+
+Today I followed a bit more of [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and read a bit about Map, Filter and Reduce.
+
+### R2D19
+Today I followed a bit more of [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and read a bit about Recursion.
+
 ### R2D18
 
 Today I worked on the last closure exercise of [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) and studied a bit more about how the Event Loop works. I can finally say that this concept is completely clear in my mind!!!
