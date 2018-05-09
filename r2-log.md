@@ -4,13 +4,28 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D28
+
+Today I wasn't with my computer but tried to solve a couple of [FreeCodeCamp](https://www.freecodecamp.org/) algorithms on my phone. An annoying bug didn't allow me to run the code but I did solve one of them later on on the computer. I also followed some of the first sections of [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course.
+
+### R2D27
+
+Today I finally completed [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) course! Some of the exercises were mind blowing!
+
+### R2D26
+
+Today I was really tired, had a long day away from the computer and ended up falling asleep watching [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course.
+
 ### R2D25
+
 Today I worked on some JavaScript algorithms challenges on [freeCodeCamp](https://www.freecodecamp.org/).
 
 ### R2D24
+
 Today I followed a bit more of [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/) and restarted watching [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 ### R2D23
+
 Today I followed a bit more of [Functional-Light JavaScript, v2](https://frontendmasters.com/courses/functional-javascript-v2/)
 
 ### R2D22
