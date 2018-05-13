@@ -4,6 +4,22 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D32
+
+Today I finished watching [JavaScript for WordPress](https://frontendmasters.com/courses/javascript-wordpress/wrapping-up-javascript-for-wordpress).
+
+### R2D31
+
+Today I kept following [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course and worked on some of the exercises. I also started watching [JavaScript for WordPress](https://frontendmasters.com/courses/javascript-wordpress/wrapping-up-javascript-for-wordpress).
+
+### R2D30
+
+Today I kept following [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course. I also read a bit of `this & Object Prototypes` [@YDKJS](https://twitter.com/YDKJS).
+
+### R2D29
+
+Today I kept following [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course and worked on some of the exercises.
+
 ### R2D28
 
 Today I wasn't with my computer but tried to solve a couple of [FreeCodeCamp](https://www.freecodecamp.org/) algorithms on my phone. An annoying bug didn't allow me to run the code but I did solve one of them later on on the computer. I also followed some of the first sections of [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course.
