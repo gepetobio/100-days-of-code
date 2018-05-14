@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D33
+
+Today I started my Nuxt.js + Wordpress API project. Basic setup is done, scss working, now I'm just adding the required plugins to expose Advanced Custom Fields to the WP API and will start testing the endpoints with Axios.
+
 ### R2D32
 
 Today I finished watching [JavaScript for WordPress](https://frontendmasters.com/courses/javascript-wordpress/wrapping-up-javascript-for-wordpress).
