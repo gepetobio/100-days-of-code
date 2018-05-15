@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D34
+
+Today I watched a bit of [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course, reviewed the `this` keyword on JavaScript [Watch and Code: Practical JavaScript](https://watchandcode.com/courses/practical-javascript) and kept working on my Nuxt.js + Wordpress API project.
+
 ### R2D33
 
 Today I started my Nuxt.js + Wordpress API project. Basic setup is done, scss working, now I'm just adding the required plugins to expose Advanced Custom Fields to the WP API and will start testing the endpoints with Axios.
