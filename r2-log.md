@@ -4,6 +4,62 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D48
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples.
+
+### R2D47
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples.
+
+### R2D46
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples.
+
+### R2D45
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples.
+
+### R2D44
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also worked on an algorithm on FreeCodeCamp.
+
+### R2D43
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises.
+
+### R2D42
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises.
+
+### R2D41
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises.
+
+### R2D40
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises.
+
+### R2D39
+
+Today I started watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises. It was good to review some concepts I read on the You Don't Know JS books.
+
+### R2D38
+
+Today I finished watching [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course. I also worked on an algorithm on [Codewars](https://www.codewars.com/)
+
+### R2D37
+
+Today I kept watching [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course and following along with the exercises. And I also worked on an algorithm on [Codewars](https://www.codewars.com/).
+
+### R2D36
+
+Today I kept watching [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course and following along with the exercises.
+
+### R2D35
+
+Today I kept watching [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course and following along with the exercises.
+
 ### R2D34
 
 Today I watched a bit of [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) course, reviewed the `this` keyword on JavaScript [Watch and Code: Practical JavaScript](https://watchandcode.com/courses/practical-javascript) and kept working on my Nuxt.js + Wordpress API project.
