@@ -4,6 +4,38 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D56
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D55
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D54
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D53
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D52
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D51
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D50
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D49
+
+Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples.
+
 ### R2D48
 
 Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples.
