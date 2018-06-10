@@ -6,7 +6,7 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ### R2D61
 
-Today I restarted working on my Nuxt / WP project. I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books. 
+Today I restarted working on my Nuxt / WP project. I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
 
 ### R2D60
 
