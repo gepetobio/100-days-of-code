@@ -4,6 +4,26 @@ The log of my #100DaysOfCode challenge, round 2! Started on April the 11th, Wedn
 
 ## Log
 
+### R2D61
+
+Today I restarted working on my Nuxt / WP project. I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books. 
+
+### R2D60
+
+Today I kept watching [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) and started working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D59
+
+Today I kept watching [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) and started working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D58
+
+Today I worked on some FreeCodeCamp challenges. I also started watching [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) and started working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
+### R2D57
+
+Today I finished watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) but still worked on the proposed exercises and examples. I also kept reading You Don't Know JS books.
+
 ### R2D56
 
 Today I kept watching [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) and working on the proposed exercises and examples. I also kept reading You Don't Know JS books.
